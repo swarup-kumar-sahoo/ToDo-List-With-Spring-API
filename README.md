@@ -4,7 +4,7 @@
 
 A simple, responsive **To-Do List App** built with **React.js** (frontend), **Spring Boot** (backend), and **MongoDB** (database). This app allows users to add, delete, and fetch tasks, with the data persisted in a database.
 
-![To-Do List Preview](![Screenshot 2025-01-04 201739](https://github.com/user-attachments/assets/4ae00d1e-4e9e-4e87-9483-d9280b18c503)
+![Screenshot 2025-01-04 201739](https://github.com/user-attachments/assets/4ae00d1e-4e9e-4e87-9483-d9280b18c503)
 ![Screenshot 2025-01-04 202128](https://github.com/user-attachments/assets/0d72cc43-88b1-4a32-ba3d-7cea0a545d1f)
 
 ---
